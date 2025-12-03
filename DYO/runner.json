@@ -1,9 +1,9 @@
-{ "manifestFiles" : [ "runner.data",
-"runner.js",
-"runner.wasm",
-"audio-worklet.js",
-"game.unx" ], "manifestFilesMD5" : [ "fef7a3de2dddbf29aad5cdcfdfe17c5a",
-"0c3e5a96a4c86092dd9300bec8939da1",
-"e37efac520969add8236cb913e54f6ba",
-"e8f1e8db8cf996f8715a6f2164c2e44e",
-"ab8410db5197a22343910908eb37d55a" ], "mainJS" : "runner.js", "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.14.0.251", "yyc": false}}
+{ "manifestFiles" : [ "DYO.data",
+"DYO.html",
+"DYO.js",
+"DYO.wasm",
+"game.unx" ], "manifestFilesMD5" : [ "1f5bf86e7e5e8954d5a06b6514abf5a5",
+"3cea88a760ddec6299dc6b5a53c26f15",
+"6d57d735fa4eda3e026ac88c790d9b42",
+"f13287c65dae7428e860eed04bbe1767",
+"bda2e34a801d0889f9ef6ff1db246d10" ], "mainJS" : "DYO.js",  "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.14.0.251", "yyc": true}}
