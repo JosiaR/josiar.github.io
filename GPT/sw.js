@@ -1,13 +1,12 @@
-const GAME_NAME = "BLANK GAME";
+const GAME_NAME = "Grid Puzzle Tutorial";
 const GAME_VERSION = "1.0.0.0";
 
 const CACHE_NAME = JSON.stringify({"name": GAME_NAME, "version": GAME_VERSION});
-const CACHE_FILES = ["runner.data",
-"runner.js",
-"runner.wasm",
-"audio-worklet.js",
-"game.unx",
-"options.ini"
+const CACHE_FILES = ["game.unx",
+"Grid_Puzzle_Tutorial.data",
+"Grid_Puzzle_Tutorial.html",
+"Grid_Puzzle_Tutorial.js",
+"Grid_Puzzle_Tutorial.wasm"
 ];
 
 self.addEventListener("fetch", (event) => {
