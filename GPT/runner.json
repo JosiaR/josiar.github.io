@@ -1,9 +1,0 @@
-{ "manifestFiles" : [ "game.unx",
-"Grid_Puzzle_Tutorial.data",
-"Grid_Puzzle_Tutorial.html",
-"Grid_Puzzle_Tutorial.js",
-"Grid_Puzzle_Tutorial.wasm" ], "manifestFilesMD5" : [ "f4ce57ac0eb64272e5ad8e5e502c5972",
-"dc9b091e67a5266622de1cf9aa46ffc9",
-"7f1233f90e297e8ae1afea3f4f3e8724",
-"1ea96a87f190eb6662acdba5550d89e7",
-"acb857eff111989566907b59cbb0b7c2" ], "mainJS" : "Grid_Puzzle_Tutorial.js",  "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.14.1.253", "yyc": true}}
